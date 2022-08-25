@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:black;
+}
+.centro {
+    display: flex;
+    justify-content: center;
+    
+}
+table{
+    border-spacing: 0;
+    color :black;
+    
+}
+
+tr, td{
+    border-spacing: 0;
+    border: 1px solid #000000;
+    margin:0;
+    padding: 5px;
+}

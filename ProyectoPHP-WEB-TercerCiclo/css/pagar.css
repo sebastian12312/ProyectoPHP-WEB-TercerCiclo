@@ -1,0 +1,26 @@
+.pagar{
+    border: 1px solid black;
+}
+.pagar h1{
+    color: black ;
+    margin-left: 32px ;
+}
+form label{
+    color: black;
+
+    
+}
+input{
+    color: coral;
+    padding: 5px 30px;
+}
+.pagar{
+display: flex;
+justify-content: center;
+}
+form p{
+    margin: 10px;
+}
+button{
+    cursor: pointer;
+}

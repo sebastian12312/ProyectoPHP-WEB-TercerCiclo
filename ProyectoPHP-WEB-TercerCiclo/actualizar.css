@@ -1,0 +1,25 @@
+form{
+    text-align: center;
+    margin: 10px;
+    padding: 0px;
+}
+.cuadro{
+    padding: 10px 60px;
+}
+.regresar p{
+    text-align: center;
+    font-size: 20px;
+    margin: 40px;
+   
+}
+.titulo{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.boton{
+    padding: 12px 6px;
+    cursor: pointer;
+}
+.boton:hover{
+    background-color: cadetblue;
+}

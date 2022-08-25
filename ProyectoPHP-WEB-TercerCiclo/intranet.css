@@ -1,0 +1,23 @@
+
+.row div{
+    display:flex;
+    justify-content: center;
+
+}
+.col-12 a{
+    text-align: center;
+    margin: 20px;
+    color: black;
+}
+.col-12 a:hover{
+    color:red;
+}
+.centro{
+    text-align: center;
+    margin: 20px;
+    font-size: 30px;
+}
+.img{
+    margin-left: 23%;
+    margin-bottom: -150px;
+}

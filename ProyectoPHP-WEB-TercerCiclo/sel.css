@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.agregar{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom:20px ;
+    color: black;
+    
+}
+.agregar:hover{
+    color:brown;
+}
+.encabezado th{
+    padding: 10px;
+}
+.table{
+    text-align:  center;
+}
+.accion{
+    color:black;
+}
+.accion:hover{
+    color: red;
+}
+.espacio td{
+    padding: 8px 4px;
+}
+.img{
+   width: 250px;
+   height: 250px;
+   margin-top: 20px;
+   margin-left: 35%;
+
+}
